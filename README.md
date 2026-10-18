@@ -12,33 +12,33 @@ Este repositorio recopila soluciones integrales de **Business Intelligence (BI)*
 ## 🚀 Proyectos Incluidos en el Portafolio
 
 ### 1. Dashboard de Control Bancario y Financiero (Treasury & Cash Flow)
-* **Objetivo:** Monitorear el flujo de caja, el estado de cuentas en múltiples instituciones financieras y la rentabilidad neta[cite: 15].
+* **Objetivo:** Monitorear el flujo de caja, el estado de cuentas en múltiples instituciones financieras y la rentabilidad neta
 * **KPIs Principales:** 
-  * Pagos Recibidos ($94.6M) y Pagos Hechos ($44.8M)[cite: 15].
-  * Control Impositivo ($14.1M) y Utilidad Neta ($35.5M)[cite: 15].
-  * Análisis de transacciones por tarjeta (31% de un total de 2,725 movimientos) y distribución de pagos por banco (Chase Bank, Bank of America, BBVA, Santander, Citigroup)[cite: 15].
+  * Pagos Recibidos ($94.6M) y Pagos Hechos ($44.8M)
+  * Control Impositivo ($14.1M) y Utilidad Neta ($35.5M)
+  * Análisis de transacciones por tarjeta (31% de un total de 2,725 movimientos) y distribución de pagos por banco (Chase Bank, Bank of America, BBVA, Santander, Citigroup)
 
 ### 2. Dashboard de Seguimiento de Servicios y Atención al Cliente (CS Analytics)
-* **Objetivo:** Evaluar la eficiencia operativa del servicio de atención al cliente, el rendimiento por agente y el volumen de atenciones por área[cite: 16].
+* **Objetivo:** Evaluar la eficiencia operativa del servicio de atención al cliente, el rendimiento por agente y el volumen de atenciones por área
 * **KPIs Principales:**
-  * Asistencias Totales (1,009) con un índice de satisfacción promedio de 3.40 y tiempo de espera de 66.68[cite: 16].
-  * Distribución de atenciones por área (Ventas, Cancelaciones, Intercambios y Reclamos) y tiempos de atención individuales por operador (Juan D., Leandro C., etc.)[cite: 16].
+  * Asistencias Totales (1,009) con un índice de satisfacción promedio de 3.40 y tiempo de espera de 66.68
+  * Distribución de atenciones por área (Ventas, Cancelaciones, Intercambios y Reclamos) y tiempos de atención individuales por operador (Juan D., Leandro C., etc.)
 
 ### 3. Dashboard de Producción y Operaciones Industriales (Core Industrial)
-* **Objetivo:** Monitorear el rendimiento de planta, eficiencia de operadores y estándares de calidad en manufactura[cite: 13].
+* **Objetivo:** Monitorear el rendimiento de planta, eficiencia de operadores y estándares de calidad en manufactura
 * **KPIs Principales:**
-  * Control de volumen de producción (**3.1M piezas producidas**, **21K rechazos**)[cite: 13].
-  * Indicadores de **% Calidad (99,32%)** y **% Productividad (77,69%)** con desglose de horas productivas a nivel global[cite: 13].
+  * Control de volumen de producción (**3.1M piezas producidas**, **21K rechazos**)
+  * Indicadores de **% Calidad (99,32%)** y **% Productividad (77,69%)** con desglose de horas productivas a nivel global
 
 ### 4. Dashboard de Resumen Financiero y Control de Costos
-* **Objetivo:** Proveer una visión ejecutiva de la rentabilidad, márgenes y costos asociados a equipos comerciales (2015-2017)[cite: 12].
+* **Objetivo:** Proveer una visión ejecutiva de la rentabilidad, márgenes y costos asociados a equipos comerciales (2015-2017)
 * **KPIs Principales:** 
-  * Margen de Utilidad del **13,50%** y comparativa analítica de Costos vs. Ventas por equipo de venta[cite: 12].
+  * Margen de Utilidad del **13,50%** y comparativa analítica de Costos vs. Ventas por equipo de venta
 
 ### 5. Dashboard de Facturación Global y Comercial
-* **Objetivo:** Analizar el comportamiento del mercado global y tendencias de venta multianual (2020-2022)[cite: 14].
+* **Objetivo:** Analizar el comportamiento del mercado global y tendencias de venta multianual (2020-2022)
 * **KPIs Principales:** 
-  * Facturación global de **$6.9M**, detección de productos estrella (*Lente Leica Vario-APO*) y geolocalización de ventas por continente[cite: 14].
+  * Facturación global de **$6.9M**, detección de productos estrella (*Lente Leica Vario-APO*) y geolocalización de ventas por continente
 
 ---
 
